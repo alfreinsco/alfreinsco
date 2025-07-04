@@ -1,25 +1,25 @@
-# Halo, saya Marthin Alfreinsco Salakory! 👋
+# Hello, I'm Marthin Alfreinsco Salakory! 👋
 ![](https://komarev.com/ghpvc/?username=alfreinsco)
 
-Saya adalah seorang **Fullstack Developer** yang bersemangat dalam membangun solusi digital berdampak sosial, khususnya untuk sektor pertanian dan pendidikan di Indonesia 🇮🇩. Minat utama saya mencakup pengembangan aplikasi berbasis mobile, web, dan IoT.
+I am a **Fullstack Developer** passionate about building impactful digital solutions, especially for the agriculture and education sectors in Indonesia 🇮🇩. My primary interests include mobile, web, and IoT application development.
 
 ---
 
-## 💼 Tentang Saya
+## 💼 About Me
 
-Sebagai seorang pengembang yang berfokus pada inovasi, saya selalu berupaya menciptakan produk berkelanjutan yang memberikan nilai nyata dan efisien.
+As a developer focused on innovation, I always strive to create sustainable products that deliver real and efficient value.
 
-* 🔭 **Proyek Terbaru**: Sedang mengembangkan aplikasi IoT untuk pengontrolan penyiraman & pemupukan jarak jauh.
-* 🌱 **Pembelajaran Berkelanjutan**: Aktif mendalami teknologi **Next.js**, **Flutter**, dan **Firebase**.
-* 🧠 **Minat & Fokus**: Tertarik dengan automasi, desain UI/UX, dan pengembangan produk berkelanjutan.
-* 🛠️ **Keahlian Teknis**: Aktif menggunakan **Laravel**, **FilamentPHP**, **Tailwind CSS**, dan **MySQL**.
-* 🤝 **Kolaborasi Tim**: Terbiasa bekerja dalam tim multidisiplin untuk proyek sosial & inovasi digital.
+* 🔭 **Latest Project**: Currently developing an IoT application for remote irrigation & fertilization control.
+* 🌱 **Continuous Learning**: Actively exploring **Next.js**, **Flutter**, and **Firebase** technologies.
+* 🧠 **Interests & Focus**: Interested in automation, UI/UX design, and sustainable product development.
+* 🛠️ **Technical Skills**: Actively using **Laravel**, **FilamentPHP**, **Tailwind CSS**, and **MySQL**.
+* 🤝 **Team Collaboration**: Accustomed to working in multidisciplinary teams for social and digital innovation projects.
 
 ---
 
 ## 💻 Tech Stack
 
-Berikut adalah teknologi dan alat yang saya kuasai dan gunakan:
+Here are the technologies and tools I am proficient in and use:
 
 **Languages**:
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
@@ -77,9 +77,9 @@ Berikut adalah teknologi dan alat yang saya kuasai dan gunakan:
 
 ---
 
-## 🌐 Sosial & Kontak
+## 🌐 Social & Contact
 
-Terhubung dengan saya untuk diskusi lebih lanjut atau peluang kolaborasi:
+Connect with me for further discussions or collaboration opportunities:
 
 <a href="https://www.facebook.com/marthin.salakory.9/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://www.instagram.com/salakory14/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
@@ -90,7 +90,7 @@ Terhubung dengan saya untuk diskusi lebih lanjut atau peluang kolaborasi:
 
 ---
 
-## 🚀 Statistik GitHub
+## 🚀 GitHub Stats
 
 <a href="https://github.com/alfreinsco" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=alfreinsco&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /></a>
 <a href="https://github.com/alfreinsco" target="_blank" rel="noreferrer"><img src="https://streak-stats.demolab.com/?user=alfreinsco&theme=radical&hide_border=false" alt="GitHub Streak" /></a>
@@ -106,8 +106,6 @@ Terhubung dengan saya untuk diskusi lebih lanjut atau peluang kolaborasi:
 
 ---
 
-## 🏆 Pencapaian GitHub
+## 🏆 GitHub Achievements
 
 <a href="https://github.com/alfreinsco" target="_blank" rel="noreferrer"><img src="https://github-profile-trophy.vercel.app/?username=alfreinsco&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" /></a>
-
----
