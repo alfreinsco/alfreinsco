@@ -1,5 +1,7 @@
 # Halo, saya Marthin Alfreinsco Salakory! 👋
+
 ![](https://komarev.com/ghpvc/?username=alfreinsco)
+
 Saya adalah seorang **Fullstack Developer** yang bersemangat dalam membangun solusi digital berdampak sosial, khususnya untuk sektor pertanian dan pendidikan di Indonesia 🇮🇩. Minat utama saya mencakup pengembangan aplikasi berbasis mobile, web, dan IoT.
 
 ---
