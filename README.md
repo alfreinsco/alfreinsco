@@ -97,6 +97,12 @@ Terhubung dengan saya untuk diskusi lebih lanjut atau peluang kolaborasi:
 
 ---
 
+## ⏰ Wakatime Stats
+
+[![Wakatime Stats](https://wakatime.com/badge/user/c6246dd2-094e-4fdf-97dd-63a55edb2a64/languages.svg)](https://wakatime.com/@c6246dd2-094e-4fdf-97dd-63a55edb2a64)
+
+---
+
 ## 🏆 Pencapaian GitHub
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alfreinsco&theme=nord&no-frame=false&no-bg=false&margin-w=4)](https://github.com/alfreinsco)
