@@ -91,9 +91,9 @@ Terhubung dengan saya untuk diskusi lebih lanjut atau peluang kolaborasi:
 
 ## 🚀 Statistik GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfreinsco&theme=nord&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/alfreinsco)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alfreinsco&theme=nord&hide_border=false)](https://github.com/alfreinsco)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfreinsco&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/alfreinsco)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfreinsco&theme=radical&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/alfreinsco)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alfreinsco&theme=radical&hide_border=false)](https://github.com/alfreinsco)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfreinsco&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/alfreinsco)
 
 ---
 
