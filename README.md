@@ -111,4 +111,4 @@ Terhubung dengan saya untuk diskusi lebih lanjut atau peluang kolaborasi:
 
 ---
 
-<a href="https://visitcount.itsvg.in/api?id=alfreinsco&icon=0&color=0" target="_blank" rel="noreferrer"><img src="https://visitcount.itsvg.in/api?id=alfreinsco&icon=0&color=0" alt="Visitor Count" /></a>
+![](https://komarev.com/ghpvc/?username=alfreinsco)
