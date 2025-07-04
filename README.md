@@ -99,7 +99,7 @@ Terhubung dengan saya untuk diskusi lebih lanjut atau peluang kolaborasi:
 
 ## ⏰ Wakatime Stats
 
-[![Wakatime Stats](https://wakatime.com/badge/user/c6246dd2-094e-4fdf-97dd-63a55edb2a64/languages.svg)](https://wakatime.com/@c6246dd2-094e-4fdf-97dd-63a55edb2a64)
+[![Wakatime Stats](https://wakatime.com/badge/user/alfreinsco/languages.svg)](https://wakatime.com/@alfreinsco)
 
 ---
 
