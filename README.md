@@ -99,7 +99,6 @@ Terhubung dengan saya untuk diskusi lebih lanjut atau peluang kolaborasi:
 
 ## ⏰ Wakatime Stats
 
-[![Wakatime Stats](https://wakatime.com/badge/user/alfreinsco/languages.svg)](https://wakatime.com/@alfreinsco)
 <a href="https://wakatime.com/@alfreinsco">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=alfreinsco&theme=radical&layout=compact" />
 </a>
