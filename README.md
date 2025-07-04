@@ -107,7 +107,7 @@ Terhubung dengan saya untuk diskusi lebih lanjut atau peluang kolaborasi:
 
 ## 🏆 Pencapaian GitHub
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alfreinsco&theme=nord&no-frame=false&no-bg=false&margin-w=4)](https://github.com/alfreinsco)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alfreinsco&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/alfreinsco)
 
 ---
 
