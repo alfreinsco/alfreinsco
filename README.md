@@ -91,27 +91,15 @@ Terhubung dengan saya untuk diskusi lebih lanjut atau peluang kolaborasi:
 
 ## 🚀 Statistik GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfreinsco&theme=radical&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/alfreinsco)
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=alfreinsco&theme=radical&hide_border=false)](https://github.com/alfreinsco)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfreinsco&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/alfreinsco)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfreinsco&theme=nord&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/alfreinsco)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alfreinsco&theme=nord&hide_border=false)](https://github.com/alfreinsco)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfreinsco&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/alfreinsco)
 
 ---
 
 ## 🏆 Pencapaian GitHub
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alfreinsco&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/alfreinsco)
-
----
-
-## 💬 Kutipan Developer
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🔝 Repositori Kontribusi Teratas
-
-![](https://github-contributor-stats.vercel.app/api?username=alfreinsco&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alfreinsco&theme=nord&no-frame=false&no-bg=false&margin-w=4)](https://github.com/alfreinsco)
 
 ---
 
