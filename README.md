@@ -89,17 +89,17 @@ Connect with me for further discussions or collaboration opportunities:
 
 ## 🚀 GitHub Stats
 
-<!-- <a href="https://github.com/alfreinsco" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=alfreinsco&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /></a>
+<a href="https://github.com/alfreinsco" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=alfreinsco&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /></a>
 <a href="https://github.com/alfreinsco" target="_blank" rel="noreferrer"><img src="https://streak-stats.demolab.com/?user=alfreinsco&theme=radical&hide_border=false" alt="GitHub Streak" /></a>
-<a href="https://github.com/alfreinsco" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfreinsco&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /></a> -->
+<a href="https://github.com/alfreinsco" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfreinsco&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /></a>
 
 ---
 
 ## ⏰ Wakatime Stats
 
-<!-- <a href="https://wakatime.com/@alfreinsco" target="_blank" rel="noreferrer">
+<a href="https://wakatime.com/@alfreinsco" target="_blank" rel="noreferrer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=alfreinsco&theme=radical&layout=compact" alt="Wakatime Stats" />
-</a> -->
+</a>
 
 ---
 
